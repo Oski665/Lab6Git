@@ -1,0 +1,107 @@
+witold@witold-narzedzia:~/GitNarz/Lab6Git/konflikt$ git log
+commit 18b3195afa81c31bcc76f39f9469baaa77093a6c (HEAD -> konflikt)
+Author: Diwel <kotlet.kurczak@interia.pl>
+Date:   Sat Jan 11 16:26:54 2020 +0100
+
+    dalej walczymy
+
+commit 0335149e75135b3cfad60e4511aa6d007d2104de (origin/dodawanie, dodawanie)
+Author: Diwel <kotlet.kurczak@interia.pl>
+Date:   Sat Jan 11 16:14:05 2020 +0100
+
+    dodany dod
+
+commit e3f52b5ab1d0a08e179098a6ebcae408bb9ee496
+Author: Oski665 <osa76autograf@o2.pl>
+Date:   Sat Jan 11 15:57:26 2020 +0100
+
+    dodanie dodawania
+
+commit 1a786217be286547371aa4e4955f799b8c446cf0
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 15:01:43 2020 +0100
+
+    Delete main.c
+
+commit 5fb9ef984edffb7f02b7e50d05d1ab640fdcd598
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 15:01:37 2020 +0100
+
+    Delete dodawanie.h
+
+commit 828a68f5f292b275c23ed1283810c6908988a5ab
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 15:01:31 2020 +0100
+
+    Delete Kalkulator.layout
+
+commit 9b2d2a2b6c2a566436d80d170e4d6462e9ca2dc0
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 15:01:24 2020 +0100
+
+    Delete Kalkulator.cbp
+
+commit ef4df02ddcfac4e2dd7fa47f48a60adfdc0e8689
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 14:39:42 2020 +0100
+
+    Add files via upload
+
+commit dcff8023c1a6055b4bc88997c54ad8f3a5d58d7c
+Author: Diwel <kotlet.kurczak@interia.pl>
+Date:   Sat Jan 11 14:34:37 2020 +0100
+
+     On branch master
+     Your branch is up to date with 'origin/master'.
+     Changes to be committed:
+            nowy plik:     kalk/kalk.cbp
+            nowy plik:     kalk/main.c
+
+commit d9c93fc0c8c3c0887e9fc136bb40d5b5b7a27819
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 14:21:12 2020 +0100
+
+    Delete odejmowanie.c
+
+commit feec5c8e7130461990003ee24a7e1c7df456cc31
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 14:21:04 2020 +0100
+
+    Delete main.c
+
+commit 1ade0a61e3957c354eddb73dbcafeba7bbd9abd6
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 14:20:54 2020 +0100
+
+    Delete dodawanie.c
+
+commit 0bdbf6740642b1e2ac7cfa0fcbad9e22fd8f5ca5
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 14:19:41 2020 +0100
+
+    Create odejmowanie.c
+
+commit 16728d847c97d551500530d1b752f2578e08a15c
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 14:19:29 2020 +0100
+
+    Create dodawanie.c
+
+commit a4819c4a1ae69e1f1507ddf19450cf2487a11091
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 14:19:13 2020 +0100
+
+    Create main.c
+
+commit 07de7abcdd256d3ff44884a5109a8a7d3a55ede4
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 14:12:09 2020 +0100
+
+    Update README.md
+
+commit 45cdda65deac582289b408dd62bedf920eb506da
+Author: Oski665 <57372456+Oski665@users.noreply.github.com>
+Date:   Sat Jan 11 14:10:07 2020 +0100
+
+    Create README.md
+
